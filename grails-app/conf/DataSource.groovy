@@ -24,7 +24,7 @@ environments {
       mongodb {
         host = 'ds035557.mongolab.com'
         port = 35557
-        database = 'heroku_app6129261'
+        database = 'heroku_app6130803'
         username = 'pruebas'
         password = 'pruebas'
       }
